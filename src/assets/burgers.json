@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Cheese Burger",
+    "price": "139,-",
+    "image": "cheeseburger.jpg",
+    "ingredients": [
+      "Vyzrálé hovězí maso",
+      "slanina",
+      "extra cheddar",
+      "karamelizovaná cibulka",
+      "domací dresink",
+      "čerstvá zelenina"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bacon Burger",
+    "price": "139,-",
+    "image": "baconburger.jpg",
+    "ingredients": [
+      "Vyzrálé hovězí maso",
+      "extra slanina",
+      "cheddar",
+      "karamelizovaná cibulka",
+      "domací dresink",
+      "čerstvá zelenina"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "BBQ Burger",
+    "price": "139,-",
+    "image": "bbqburger.jpg",
+    "ingredients": [
+      "Vyzrálé hovězí maso",
+      "slanina",
+      "cheddar",
+      "karamelizovaná cibulka",
+      "BBQ omáčka",
+      "čerstvá zelenina"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Vege Burger",
+    "price": "139,-",
+    "image": "vegeburger.jpg",
+    "ingredients": [
+      "Vyzrálý sýr",
+      "karamelizovaná cibulka",
+      "brusinky",
+      "domácí dresink s vlašskými ořechy",
+      "čerstvá zelenina"
+    ]
+  }
+]
